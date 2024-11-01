@@ -40,7 +40,7 @@ function Register() {
         <div>
           <h1 className="text-[120px] font-bold text-[#004B87]">Kroger</h1>
           <span className=" text-white mt-5 text-lg">
-            One place to track all your business records
+            Feed The Human Spirit. 
           </span>
         </div>
       </div>
